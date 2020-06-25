@@ -1,2 +1,3 @@
 # Dogs-VS-Cats
-Image Classification using Convolutional Neural Network.
+Image Classification is a complex procedure which is a need of the hour. It is used in various areas such a medicine, theft identification, face recognition, traffic analysis, etc. We can create a predictive model with the help of machine learning algorithms such as K-Nearest Neighbour, Decision Tree and Support Vector Machines. Another sophisticated way to perform image classification is with the help of Artificial Neural Networks (ANN). The following python notebook presents image classification with the help of Convolutional Neural Network (CNN). <br>The Dataset is taken from kaggle and can be found in the link below: 
+<br>https://www.kaggle.com/chetankv/dogs-cats-images
